@@ -7,7 +7,7 @@ Let's first Up the Backend with Sanity CMS then we will go to Frotend, to displa
 
 ![Screenshot 2023-02-02 194917](https://user-images.githubusercontent.com/93249038/216354823-ca2da50a-201e-4203-81f0-9d56771f6273.png)
 
-TECHNOLOGIES USED
+# TECHNOLOGIES USED
 
 # Sanity
 Sanity is the most flexible platform for building data driven content solutions.
