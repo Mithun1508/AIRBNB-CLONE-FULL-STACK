@@ -13,7 +13,7 @@ Let's first Up the Backend with Sanity CMS then we will go to Frotend, to displa
 Sanity is the most flexible platform for building data driven content solutions.
 
 # Next.js
-Next.js gives the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.
+Next.js gives the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config needed.  Next. js is a flexible React framework that gives you building blocks to create fast web applications. It is often called the fullstack React framework as it makes it possible to have both frontend and backend applications on the same codebase doing so with serverless functions.
 
 # React.js
 React.js JavaScript library for building interactive user interfaces
