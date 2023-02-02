@@ -33,7 +33,9 @@ npm i
 
 Step 4: Run the server
 npm run dev
-# or
+
+(or)
+
 yarn dev
 image
 Open http://localhost:3000 with your browser to see the result.
